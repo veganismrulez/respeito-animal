@@ -26,7 +26,7 @@
 
 :white_check_mark: Marcar a moderação (utilize @👑┃ ) caso acredite que as coisas estão saindo do controle;
 
-:white_check_mark: Caso se torne @💎┃Apoiador do canal (saiba mais em  #〔💲〕beneficios  , avise o @👑┃  para ganhar as permissões de membro.
+:white_check_mark: Caso se torne @💎┃Apoiador do canal (saiba mais em  [#〔💲〕beneficios](https://discord.com/channels/825460064990789732/825461332954447892)  , avise o @👑┃  para ganhar as permissões de membro.
 
 :white_check_mark: Tomar como norte de sua atuação no server o [**Princípio de Caridade**](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_de_caridade)(atribuir às falas das pessoas a melhor interpretação possível).
 
@@ -38,8 +38,9 @@
 
 ## SOBRE FAZER DRAMA / MIMIMI NO SERVIDOR 
 
-O objetivo principal do servidor é ajudar os animais e servir como plataforma para o ativismo. Drama não será tolerado aqui. Perguntar publicamente sobre as circunstâncias das ações do moderador, incluindo kicks, banimentos ou restrições, é desaprovado com base no fato de que muitas vezes isso desvia a atenção do objetivo e propósito primários do **Respeito Animal**. Às vezes, é melhor não tornar públicos os motivos para as ações do mod, a fim de proteger todos os envolvidos. Os usuários podem perguntar sobre as circunstâncias das ações do moderador ou levantar questões relacionadas ao usuário, mas pedimos que você não faça isso publicamente e use @ModMail. Perpetuar publicamente o drama, a toxicidade ou os problemas do usuário irão sujeitá-lo a advertências, restrições ou remoção do *Respeito Animal*. | @everyone
+O objetivo principal do servidor é ajudar os animais e servir como plataforma para o ativismo. Drama não será tolerado aqui. Perguntar publicamente sobre as circunstâncias das ações do moderador, incluindo kicks, banimentos ou restrições, é desaprovado com base no fato de que muitas vezes isso desvia a atenção do objetivo e propósito primários do **Respeito Animal**. Às vezes, é melhor não tornar públicos os motivos para as ações do mod, a fim de proteger todos os envolvidos. Os usuários podem perguntar sobre as circunstâncias das ações do moderador ou levantar questões relacionadas ao usuário, mas pedimos que você não faça isso publicamente e use @ModMail. Perpetuar publicamente o drama, a toxicidade ou os problemas do usuário irão sujeitá-lo a advertências, restrições ou remoção do **Respeito Animal**. | @everyone
 
 
-**REGRA ABSOLUTA**
+## REGRA ABSOLUTA
+
 Convide seus amigos para o servidor toda vez que mostrarem interesse em veganismo. Copie este link e cole por aí: https://discord.gg/DcbpSV6frS
